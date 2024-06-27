@@ -1,0 +1,7 @@
+name: PixelAFK-Limbo
+version: '1.1-SNAPSHOT'
+main: cn.damao.catpixel.pixelafklimbo.PixelAFK_Limbo
+author: DaMao_OVO
+commands:
+  PixelAFK:
+    description: 基于中国版Hypixel开发的一款便携简单的AFK插件
